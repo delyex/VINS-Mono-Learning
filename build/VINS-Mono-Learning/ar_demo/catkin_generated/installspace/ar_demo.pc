@@ -1,0 +1,8 @@
+prefix=/home/rclark/Documents/git_repos/VINS-Mono-Learning/install
+
+Name: ar_demo
+Description: Description of ar_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rclark/Documents/git_repos/VINS-Mono-Learning/install/lib 
+Requires: 

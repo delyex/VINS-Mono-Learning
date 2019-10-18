@@ -1,0 +1,2 @@
+VINS-Mono-Learning/ar_demo:VINS-Mono-Learning/benchmark_publisher:VINS-Mono-Learning/camera_model:VINS-Mono-Learning/feature_tracker:VINS-Mono-Learning/pose_graph:VINS-Mono-Learning/vins_estimator
+-DCATKIN_DEVEL_PREFIX=/home/rclark/Documents/git_repos/VINS-Mono-Learning/devel -DCMAKE_INSTALL_PREFIX=/home/rclark/Documents/git_repos/VINS-Mono-Learning/install -G Unix Makefiles

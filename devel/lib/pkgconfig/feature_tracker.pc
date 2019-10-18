@@ -1,0 +1,8 @@
+prefix=/home/rclark/Documents/git_repos/VINS-Mono-Learning/devel
+
+Name: feature_tracker
+Description: Description of feature_tracker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rclark/Documents/git_repos/VINS-Mono-Learning/devel/lib 
+Requires: 

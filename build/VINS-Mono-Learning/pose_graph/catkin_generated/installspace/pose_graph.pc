@@ -1,0 +1,8 @@
+prefix=/home/rclark/Documents/git_repos/VINS-Mono-Learning/install
+
+Name: pose_graph
+Description: Description of pose_graph
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rclark/Documents/git_repos/VINS-Mono-Learning/install/lib 
+Requires: 

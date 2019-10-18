@@ -1,0 +1,8 @@
+prefix=/home/rclark/Documents/git_repos/VINS-Mono-Learning/devel
+
+Name: benchmark_publisher
+Description: Description of benchmark_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rclark/Documents/git_repos/VINS-Mono-Learning/devel/lib 
+Requires: 
